@@ -1,4 +1,4 @@
-# exploring-phi-4-with-llama-cpp
+# exploring-phi-4-gguf-with-llama-cpp
 
 This repository contains a Jupyter Notebook (`phi_4_llama-cpp.ipynb`) demonstrating how to load, run, and perform basic performance comparisons for various Phi-4 GGUF (quantized) models using the `llama-cpp-python` library. The primary focus is on a Named Entity Recognition (NER) task with a strict JSON-only output requirement.
 
@@ -58,8 +58,8 @@ The `phi_4_llama-cpp.ipynb` notebook includes:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/SakibAhmedShuva/exploring-phi-4-with-llama-cpp.git
-cd exploring-phi-4-with-llama-cpp
+git clone https://github.com/SakibAhmedShuva/exploring-phi-4-gguf-with-llama-cpp.git
+cd exploring-phi-4-gguf-with-llama-cpp
 ```
 
 2. **Create and activate a virtual environment (recommended):**
